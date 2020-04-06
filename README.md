@@ -1,8 +1,8 @@
 MVC: Model View Controller
 	This framework has logical components in an architectural pattern that divides the application into three are “view”, “Model”, & “Controller”. It develops the application by using these three components and it is used frequently in the industry for creating extensible and scalable projects.
 Features: 
-•	By default, the application will separate the tasks like UI, input, & business logic, Testability and TDD. 
-•	In this, we can select the searchable and comprehensible URLs by using URL-mapping.
+• By default, the application will separate the tasks like UI, input, & business logic, Testability and TDD. 
+• In this, we can select the searchable and comprehensible URLs by using URL-mapping.
 •	It gives full access to websites URLs and HTML.
 •	The MVC framework will supports the scaffolding and Test Driven Development.
 Advantages:
